@@ -18,3 +18,10 @@ colorscheme elflord
 set hlsearch
 set nobackup
 set noswapfile
+set shiftwidth=4
+set tabstop=4
+set expandtab
+set smarttab
+set ai
+set si
+set wrap
